@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataGenius</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="container_navbar">
+            <a href="#" class="logo"><b><h1>DataGenius</h1></b></a>
+            <ul class="nav-links">
+                <li><a href="{{ url_for('index') }}">Home</a></li>
+                <li><a href="{{ url_for('analytics') }}">AI Analytics</a></li>
+            </ul>
+        </div>
+    </nav>
+
+<div class="container">
+    <h1>Upload Your CSV File</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data" id="uploadForm">
+        <input type="file" name="file" id="fileInput" class="input-file">
+        <label for="fileInput" class="file-label">Choose File</label>
+        <input type="text" name="query" placeholder="Enter your query here">
+        <button type="submit" class="btn">Submit</button>
+    </form>
+    
+
+    <h2>Query Result:</h2>
+    <p>{{ result }}</p>
+
+</div>
+
+
+<div class="container">
+    
+</div>
+
+</body>
+</html>
