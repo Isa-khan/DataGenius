@@ -10,3 +10,4 @@ pyspark==3.5.1
 tokenizers==0.15.2
 uri-template==1.3.0
 user-agents==2.2.0
+gunicorn==21.2.0
