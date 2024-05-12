@@ -1,30 +1,27 @@
 # Data Genius
 
-Welcome to Data Genius, your go-to platform for querying CSV data using retrieval augmented generation in Large Language Models (LLMs). With Data Genius, you can easily retrieve insights from your CSV files without the hassle of complex queries. Our platform leverages cutting-edge technology to provide you with accurate and efficient data analysis.
+Welcome to Data Genius, your personal gateway to unlocking insights from your CSV data effortlessly! 🚀 With Data Genius, querying CSV files becomes a breeze, thanks to the power of Retrieval Augmented Generation (RAG) and Large Language Models (LLMs). Our platform integrates cutting-edge technologies like pandas and Langchain to provide you with accurate and efficient data analysis.
 
 ## Live Deployed Link
 
-[Data Genius](https://data-genius-4e11aea6a361.herokuapp.com)
+Experience the magic of Data Genius right now! 🔗 [Data Genius](https://data-genius-4e11aea6a361.herokuapp.com)
 
 ## How to Use
 
-1. **Upload your CSV file**: Start by uploading your CSV file containing the data you want to analyze. Our platform supports a wide range of CSV formats.
+1. **Upload Your CSV File**: Start by uploading your CSV file containing the data you want to analyze. Data Genius supports a wide range of CSV formats, making your data analysis journey seamless.
 
-2. **Enter your query**: Once your file is uploaded, enter your query in natural language. You can ask questions or specify criteria for filtering the data.
+2. **Craft Your Query**: Once your file is uploaded, simply express your query in natural language. Whether it's asking questions or specifying filtering criteria, just tell Data Genius what you need.
 
-3. **Get insights**: Hit the "Submit" button, and our platform will process your query using retrieval augmented generation in LLMs. You'll receive insights and answers to your query in a clear and concise format.
-
+3. **Receive Insights**: Hit the "Submit" button, and behold as Data Genius processes your query using RAG in LLMs. You'll receive insights and answers to your query in a clear and concise format.
 
 ## Feedback
 
-I'm constantly working to improve Data Genius and make it even more useful for my users. If you have any feedback or suggestions, please don't hesitate to [contact us](mailto:i6khan@uwaterloo.ca). Your input is invaluable to us!
+Your feedback fuels our innovation! 🚀 If you have any suggestions or thoughts on how Data Genius can serve you better, please reach out to [me](mailto:i6khan@uwaterloo.ca). Your input is invaluable!
 
 ## About
 
-Data Genius is developed and maintained by a team of passionate data scientists and engineers dedicated to democratizing data analysis. Our mission is to empower individuals and organizations with easy access to powerful data insights.
+Data Genius is a product of my passion for democratizing data analysis. I'm dedicated to empowering individuals like you with easy access to powerful data insights. 💡
 
 ## Disclaimer
 
-Data Genius is provided for informational purposes only. While we strive to provide accurate results, we cannot guarantee the correctness or completeness of the insights generated. Users are encouraged to verify the results independently before making any decisions based on them.
-
-
+Data Genius is your guide in the world of data, provided for informational purposes. While we strive for accuracy, please verify the results independently before making any decisions. Your data journey is in safe hands! 🛡️
