@@ -9,7 +9,12 @@ from langchain_openai import ChatOpenAI
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
 
-os.environ['OPENAI_API_KEY'] = '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'
+# Access the OpenAI API key from the environment variable
+openai_api_key = os.environ.get('OPENAI_API_KEY')
+
+# Ensure the API key is set
+if not openai_api_key:
+    raise ValueError("OpenAI API key is not set.")
 
 prompt = """You are an AI assistant that must read a csv and answer questions about it, 
 any question that I will say after this sentence is the one you must answer, and if at any 
