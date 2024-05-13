@@ -1,4 +1,4 @@
-# Data Genius
+# DataGenius
 
 Welcome to Data Genius, your personal gateway to unlocking insights from your CSV data effortlessly! 🚀 With Data Genius, querying CSV files becomes a breeze, thanks to the power of Retrieval Augmented Generation (RAG) and Large Language Models (LLMs). Our platform integrates cutting-edge technologies like pandas and Langchain to provide you with accurate and efficient data analysis.
 
