@@ -22,7 +22,7 @@ Your feedback fuels our innovation! 🚀 If you have any suggestions or thoughts
 
 ## Here is the architecture of how Retrieval Augmented Generation (RAG) works:
 
-![RAG Architecture](https://truera.com/wp-content/uploads/2021/03/What-is-Retrieval-Augmented-Generation-RAG-for-LLMs.png)
+[![RAG Architecture](https://truera.com/wp-content/uploads/2021/03/What-is-Retrieval-Augmented-Generation-RAG-for-LLMs.png)](https://truera.com/ai-quality-education/generative-ai-rags/what-is-retrieval-augmented-generation-rag-for-llms)
 
 ## About
 
