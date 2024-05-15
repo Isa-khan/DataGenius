@@ -6,6 +6,10 @@ Welcome to Data Genius, your personal gateway to unlocking insights from your CS
 
 Experience the magic of Data Genius right now! 🔗 [Data Genius](https://data-genius-4e11aea6a361.herokuapp.com) (If server is overloaded, please try again later)
 
+## Here is the architecture of how Retreival Augmented Generation (RAG) works:
+
+![RAG Architecture](https://truera.com/wp-content/uploads/2021/03/What-is-Retrieval-Augmented-Generation-RAG-for-LLMs.png)
+
 ## How to Use
 
 1. **Upload Your CSV File**: Start by uploading your CSV file containing the data you want to analyze. Data Genius supports a wide range of CSV formats, making your data analysis journey seamless.
