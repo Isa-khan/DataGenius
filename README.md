@@ -18,9 +18,7 @@ Experience the magic of Data Genius right now! 🔗 [Data Genius](https://data-g
 
 Your feedback fuels our innovation! 🚀 If you have any suggestions or thoughts on how Data Genius can serve you better, please reach out to [me](mailto:i6khan@uwaterloo.ca). Your input is invaluable!
 
-## Click on this to see how Retreival Augmented Generation (RAG) architecture works:
-
-## Here is the architecture of how Retrieval Augmented Generation (RAG) works:
+## Click on this to understand how Retreival Augmented Generation (RAG) architecture works:
 
 [![RAG Architecture](https://truera.com/wp-content/uploads/2021/03/What-is-Retrieval-Augmented-Generation-RAG-for-LLMs.png)](https://truera.com/ai-quality-education/generative-ai-rags/what-is-retrieval-augmented-generation-rag-for-llms)
 
