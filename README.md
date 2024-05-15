@@ -4,7 +4,7 @@ Welcome to Data Genius, your personal gateway to unlocking insights from your CS
 
 ## Live Deployed Link
 
-Experience the magic of Data Genius right now! 🔗 [Data Genius](https://data-genius-4e11aea6a361.herokuapp.com)
+Experience the magic of Data Genius right now! 🔗 [Data Genius](https://data-genius-4e11aea6a361.herokuapp.com) (If server is overloaded, please try again later)
 
 ## How to Use
 
