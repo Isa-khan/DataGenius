@@ -9,7 +9,7 @@ from pyspark.sql.functions import col
 import os
 
 # OpenAI API Key
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ''
 
 prompt = """You are an AI assistant that must read a csv and answer questions about it, 
 any question that I will say after this sentence is the one you must answer, and if at any 
