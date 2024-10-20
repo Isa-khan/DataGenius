@@ -16,7 +16,7 @@ Experience the magic of Data Genius right now! 🔗 [Data Genius](https://data-g
 
 ## Feedback
 
-Your feedback fuels our innovation! 🚀 If you have any suggestions or thoughts on how Data Genius can serve you better, please reach out to [me](mailto:i6khan@uwaterloo.ca). Your input is invaluable!
+Your feedback fuels our innovation! 🚀 If you have any suggestions or thoughts on how Data Genius can serve you better, please reach out to [me](mailto:i6khan@uwaterloo.ca). 
 
 ## Click on this to understand how Retreival Augmented Generation (RAG) architecture works:
 
